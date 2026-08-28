@@ -12,3 +12,6 @@ public:
         return profit;
     }
 };
+
+//time =O(n);
+//space=O(1);
